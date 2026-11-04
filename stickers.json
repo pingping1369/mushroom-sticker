@@ -1,0 +1,204 @@
+{
+  "license": "CC-BY-4.0",
+  "notice": "Illustrations for enjoyment and record only. Never use them to decide whether a mushroom is edible.",
+  "stickers": [
+    {
+      "file": "stickers/false-parasol/false-parasol-young.png",
+      "species": "false-parasol",
+      "stage": "young",
+      "scientificName": "Chlorophyllum molybdites",
+      "family": "Agaricaceae",
+      "name": {
+        "en": "False parasol",
+        "zh": "大青褶伞"
+      },
+      "page": "https://mushroomsticker.com/stickers/false-parasol",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Justin",
+        "license": "cc-by-sa-3.0",
+        "page": "https://mushroomobserver.org/images/327529"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/shaggy-ink-cap/shaggy-ink-cap-young.png",
+      "species": "shaggy-ink-cap",
+      "stage": "young",
+      "scientificName": "Coprinus comatus",
+      "family": "Agaricaceae",
+      "name": {
+        "en": "Shaggy ink cap",
+        "zh": "毛头鬼伞"
+      },
+      "page": "https://mushroomsticker.com/stickers/shaggy-ink-cap",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Jeff Riedenauer",
+        "license": "cc-by-sa-3.0",
+        "page": "https://mushroomobserver.org/images/120567"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/old-man-of-the-woods/old-man-of-the-woods-young.png",
+      "species": "old-man-of-the-woods",
+      "stage": "young",
+      "scientificName": "Strobilomyces strobilaceus",
+      "family": "Boletaceae",
+      "name": {
+        "en": "Old man of the woods",
+        "zh": "松塔牛肝菌"
+      },
+      "page": "https://mushroomsticker.com/stickers/old-man-of-the-woods",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Christian",
+        "license": "cc-by-nc-sa-3.0",
+        "page": "https://mushroomobserver.org/images/238101"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/beaked-earthstar/beaked-earthstar-mature.png",
+      "species": "beaked-earthstar",
+      "stage": "mature",
+      "scientificName": "Geastrum pectinatum",
+      "family": "Geastraceae",
+      "name": {
+        "en": "Beaked earthstar",
+        "zh": "篦齿地星"
+      },
+      "page": "https://mushroomsticker.com/stickers/beaked-earthstar",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Teodoro Chivata Bedoya",
+        "license": "cc-by-sa-3.0",
+        "page": "https://mushroomobserver.org/images/1185172"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/grass-green-russula/grass-green-russula-mature.png",
+      "species": "grass-green-russula",
+      "stage": "mature",
+      "scientificName": "Russula aeruginea",
+      "family": "Russulaceae",
+      "name": {
+        "en": "Grass-green russula",
+        "zh": "铜绿红菇"
+      },
+      "page": "https://mushroomsticker.com/stickers/grass-green-russula",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Ron Pastorino",
+        "license": "cc-by-sa-3.0",
+        "page": "https://mushroomobserver.org/images/231104"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/green-cracking-russula/green-cracking-russula-mature.png",
+      "species": "green-cracking-russula",
+      "stage": "mature",
+      "scientificName": "Russula virescens",
+      "family": "Russulaceae",
+      "name": {
+        "en": "Green-cracking russula",
+        "zh": "变绿红菇"
+      },
+      "page": "https://mushroomsticker.com/stickers/green-cracking-russula",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "iNaturalist",
+        "author": "no rights reserved",
+        "license": "cc0",
+        "page": "https://www.inaturalist.org/observations/57588958"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/verdigris-agaric/verdigris-agaric-mature.png",
+      "species": "verdigris-agaric",
+      "stage": "mature",
+      "scientificName": "Stropharia aeruginosa",
+      "family": "Strophariaceae",
+      "name": {
+        "en": "Verdigris agaric",
+        "zh": "铜绿球盖菇"
+      },
+      "page": "https://mushroomsticker.com/stickers/verdigris-agaric",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Caleb Brown",
+        "license": "cc-by-sa-3.0",
+        "page": "https://mushroomobserver.org/images/379798"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/golden-scruffy-collybia/golden-scruffy-collybia-young.png",
+      "species": "golden-scruffy-collybia",
+      "stage": "young",
+      "scientificName": "Cyptotrama asprata",
+      "family": "Tricholomataceae",
+      "name": {
+        "en": "Golden-scruffy collybia",
+        "zh": "金褴伞"
+      },
+      "page": "https://mushroomsticker.com/stickers/golden-scruffy-collybia",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Cho Fungi",
+        "license": "cc-by-sa-3.0",
+        "page": "https://mushroomobserver.org/images/1643679"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/golden-scruffy-collybia/golden-scruffy-collybia-mature.png",
+      "species": "golden-scruffy-collybia",
+      "stage": "mature",
+      "scientificName": "Cyptotrama asprata",
+      "family": "Tricholomataceae",
+      "name": {
+        "en": "Golden-scruffy collybia",
+        "zh": "金褴伞"
+      },
+      "page": "https://mushroomsticker.com/stickers/golden-scruffy-collybia",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Danny Newman",
+        "license": "cc-by-nc-sa-3.0",
+        "page": "https://mushroomobserver.org/images/721244"
+      },
+      "published": "2026-11-04"
+    }
+  ]
+}
