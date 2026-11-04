@@ -47,6 +47,50 @@
       "published": "2026-11-04"
     },
     {
+      "file": "stickers/lurid-bolete/lurid-bolete-young.png",
+      "species": "lurid-bolete",
+      "stage": "young",
+      "scientificName": "Boletus luridus",
+      "family": "Boletaceae",
+      "name": {
+        "en": "Lurid bolete",
+        "zh": "红网牛肝菌"
+      },
+      "page": "https://mushroomsticker.com/stickers/lurid-bolete",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Ruzica and Sava Krstic",
+        "license": "cc-by-sa-3.0",
+        "page": "https://mushroomobserver.org/images/158503"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/lurid-bolete/lurid-bolete-mature.png",
+      "species": "lurid-bolete",
+      "stage": "mature",
+      "scientificName": "Boletus luridus",
+      "family": "Boletaceae",
+      "name": {
+        "en": "Lurid bolete",
+        "zh": "红网牛肝菌"
+      },
+      "page": "https://mushroomsticker.com/stickers/lurid-bolete",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "Mushroom Observer",
+        "author": "Ilona Loser",
+        "license": "cc-by-sa-3.0",
+        "page": "https://mushroomobserver.org/images/542442"
+      },
+      "published": "2026-11-04"
+    },
+    {
       "file": "stickers/old-man-of-the-woods/old-man-of-the-woods-young.png",
       "species": "old-man-of-the-woods",
       "stage": "young",
@@ -65,6 +109,50 @@
         "author": "Christian",
         "license": "cc-by-nc-sa-3.0",
         "page": "https://mushroomobserver.org/images/238101"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/old-man-of-the-woods/old-man-of-the-woods-mature.png",
+      "species": "old-man-of-the-woods",
+      "stage": "mature",
+      "scientificName": "Strobilomyces strobilaceus",
+      "family": "Boletaceae",
+      "name": {
+        "en": "Old man of the woods",
+        "zh": "松塔牛肝菌"
+      },
+      "page": "https://mushroomsticker.com/stickers/old-man-of-the-woods",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "iNaturalist",
+        "author": "(c) Benjamin Binstock, all rights reserved",
+        "license": null,
+        "page": "https://www.inaturalist.org/observations/87615909"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/beaked-earthstar/beaked-earthstar-young.png",
+      "species": "beaked-earthstar",
+      "stage": "young",
+      "scientificName": "Geastrum pectinatum",
+      "family": "Geastraceae",
+      "name": {
+        "en": "Beaked earthstar",
+        "zh": "篦齿地星"
+      },
+      "page": "https://mushroomsticker.com/stickers/beaked-earthstar",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": "iNaturalist",
+        "author": "(c) Jack Johnson, some rights reserved (CC BY-NC)",
+        "license": "cc-by-nc",
+        "page": "https://www.inaturalist.org/observations/260642039"
       },
       "published": "2026-11-04"
     },
@@ -113,6 +201,28 @@
       "published": "2026-11-04"
     },
     {
+      "file": "stickers/green-cracking-russula/green-cracking-russula-young.png",
+      "species": "green-cracking-russula",
+      "stage": "young",
+      "scientificName": "Russula virescens",
+      "family": "Russulaceae",
+      "name": {
+        "en": "Green-cracking russula",
+        "zh": "变绿红菇"
+      },
+      "page": "https://mushroomsticker.com/stickers/green-cracking-russula",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": null,
+        "author": null,
+        "license": null,
+        "page": null
+      },
+      "published": "2026-11-04"
+    },
+    {
       "file": "stickers/green-cracking-russula/green-cracking-russula-mature.png",
       "species": "green-cracking-russula",
       "stage": "mature",
@@ -131,6 +241,28 @@
         "author": "no rights reserved",
         "license": "cc0",
         "page": "https://www.inaturalist.org/observations/57588958"
+      },
+      "published": "2026-11-04"
+    },
+    {
+      "file": "stickers/verdigris-agaric/verdigris-agaric-young.png",
+      "species": "verdigris-agaric",
+      "stage": "young",
+      "scientificName": "Stropharia aeruginosa",
+      "family": "Strophariaceae",
+      "name": {
+        "en": "Verdigris agaric",
+        "zh": "铜绿球盖菇"
+      },
+      "page": "https://mushroomsticker.com/stickers/verdigris-agaric",
+      "license": "CC-BY-4.0",
+      "attribution": "Mushroom Sticker (mushroomsticker.com)",
+      "kind": "AI-assisted illustration, reviewed by hand",
+      "reference": {
+        "source": null,
+        "author": null,
+        "license": null,
+        "page": null
       },
       "published": "2026-11-04"
     },
